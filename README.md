@@ -18,5 +18,6 @@
 
 ## Project Wiki
 
-## d ev branch 추가 메시지
+## merge dev 추가 메시지지
 
+## pull request dev 추가 메시지
