@@ -20,4 +20,4 @@
 
 ## merge dev 추가 메시지지
 
-## pull request dev 추가 메시
+## pull request dev 추가 메시지
