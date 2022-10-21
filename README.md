@@ -1,6 +1,8 @@
 # My Todo App
 # preProject_practice
 - 팀 preProject 연습용 개인 리포지토리
+- Unit2 과제
+
 
 ## Features
 
@@ -16,4 +18,5 @@
 
 ## Project Wiki
 
+## d ev branch 추가 메시지
 
