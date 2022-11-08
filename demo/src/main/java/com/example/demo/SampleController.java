@@ -10,4 +10,9 @@ public class SampleController {
     public String helloWorld() {
         return "To-do Application !";
     }
+
+    @GetMapping("/committest")
+    public String commitTest() {return "안녕하세요!";}
+
 }
+
